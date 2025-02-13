@@ -1,2 +1,2 @@
 # Synchronisation in Chaotic Systems
-This repository contains (or rather will contain) the code for my ongoing undergraduate research project on chaotic nonlinear systems at IIT-Delhi. For now, the repository includes some paper results I tried to replicate and go deeper into to familiarise myself at the beginning of the project with the methods and tools to analyse chaos.
+This repository contains the code for my ongoing introductory reading project on chaotic nonlinear systems at IIT-Delhi. The repository includes some paper results I tried to replicate and go deeper into to familiarise myself with the methods and tools to analyse chaos.
